@@ -1,0 +1,84 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  color: #363636;
+  font-size: 16px; }
+
+.page {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center; }
+  .page #button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #D8D8D8;
+    box-sizing: border-box;
+    border-radius: 25px;
+    font-size: 16px;
+    line-height: 24px;
+    height: 50px;
+    width: 150px;
+    background-color: transparent; }
+    .page #button img {
+      margin-left: 20px; }
+  .page .main-title {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    color: #45852D;
+    justify-content: center; }
+  .page .houses {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; }
+    .page .houses a {
+      text-decoration: none;
+      color: #363636;
+      margin: 22px; }
+    .page .houses .houses__item {
+      background-color: #F8F8F8;
+      border: 1px solid #D8D8D8;
+      width: 377px;
+      height: 381px; }
+      .page .houses .houses__item .houses__item__head {
+        width: 377px;
+        height: 227px;
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-end; }
+        .page .houses .houses__item .houses__item__head span {
+          color: white;
+          font-size: 12px;
+          padding: 8px;
+          line-height: 16px;
+          font-weight: bold;
+          text-align: center;
+          background-color: #006F79; }
+      .page .houses .houses__item .houses__item__body {
+        padding: 0 20px 20px 20px; }
+        .page .houses .houses__item .houses__item__body p {
+          margin: 7px; }
+        .page .houses .houses__item .houses__item__body .houses__item__body__name {
+          margin-bottom: 0;
+          margin-top: 15px;
+          font-weight: bold;
+          font-size: 20px;
+          line-height: 27px; }
+        .page .houses .houses__item .houses__item__body .houses__item__body__price {
+          margin-top: 15px; }
+
+@media screen and (max-width: 377px) {
+  .page .houses .houses__item {
+    width: 268px;
+    font-size: 14px; }
+    .page .houses .houses__item .houses__item__head {
+      width: 268px; }
+    .page .houses .houses__item .houses__item__body .houses__item__body__name {
+      font-size: 16px;
+      line-height: 16px; }
+    .page .houses .houses__item .houses__item__body .houses__item__body__price {
+      margin-top: 0; } }
+
+/*# sourceMappingURL=style.css.map */

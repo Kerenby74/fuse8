@@ -1,0 +1,76 @@
+{
+  "houses" : [
+    {
+      "id": "1",
+      "status": "Independent living",
+      "name": "Brunlees Court",
+      "address": "19-23 Cambridge Road, Southport",
+      "price": "£214,999",
+      "imgUrl": "./img/house-first.png"
+    },
+    {
+      "id": "2",
+      "status": "Independent living",
+      "name": "Charlotte Court",
+      "address": "19-23 Cambridge Road, Southport",
+      "price": "£214,999",
+      "imgUrl": "./img/house-second.png"
+    },
+    {
+      "id": "3",
+      "status": "Restaurant & Support available",
+      "name": "Grove Court",
+      "address": "19-23 Cambridge Road, Southport",
+      "price": "£214,999",
+      "imgUrl": "./img/house-three.png"
+    },
+    {
+      "id": "4",
+      "status": "Independent living",
+      "name": "Brunlees Court",
+      "address": "19-23 Cambridge Road, Southport",
+      "price": "£214,999",
+      "imgUrl": "./img/house-first.png"
+    },
+    {
+      "id": "5",
+      "status": "Independent living",
+      "name": "Charlotte Court",
+      "address": "19-23 Cambridge Road, Southport",
+      "price": "£214,999",
+      "imgUrl": "./img/house-second.png"
+    },
+    {
+      "id": "6",
+      "status": "Restaurant & Support available",
+      "name": "Grove Court",
+      "address": "19-23 Cambridge Road, Southport",
+      "price": "£214,999",
+      "imgUrl": "./img/house-three.png"
+    },
+    {
+      "id": "7",
+      "status": "Independent living",
+      "name": "Brunlees Court",
+      "address": "19-23 Cambridge Road, Southport",
+      "price": "£214,999",
+      "imgUrl": "./img/house-first.png"
+    },
+    {
+      "id": "8",
+      "status": "Independent living",
+      "name": "Charlotte Court",
+      "address": "19-23 Cambridge Road, Southport",
+      "price": "£214,999",
+      "imgUrl": "./img/house-second.png"
+    },
+    {
+      "id": "9",
+      "status": "Restaurant & Support available",
+      "name": "Grove Court",
+      "address": "19-23 Cambridge Road, Southport",
+      "price": "£214,999",
+      "imgUrl": "./img/house-three.png"
+    }
+  ]
+}
