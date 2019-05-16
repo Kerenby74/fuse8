@@ -11,7 +11,7 @@ function readTextFile(file, callback) {
 	};
 	houseFile.send(null);
 }
-readTextFile("./js/house.json", function(h){
+readTextFile("http://api.myjson.com/bins/gh7xe", function(h){
 	let house = JSON.parse(h);
 	let button = document.getElementById("button");
 	button.addEventListener('click', function () {
